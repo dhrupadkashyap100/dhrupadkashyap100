@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=230&section=header&text=Dhrupad%20Kashyap&fontSize=52&fontColor=7dd3fc&animation=twinkling&fontAlignY=36&desc=B.Tech%20CSE%20Student%20%C2%B7%20AI%2FML%20%26%20Full-Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Dhrupad Kashyap header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=230&section=header&text=Dhrupad%20Kashyap&fontSize=52&fontColor=7dd3fc&animation=twinkling&fontAlignY=36&desc=B.Tech%20CSE%20Student%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Dhrupad Kashyap header" width="100%" />
 
 <a href="https://github.com/dhrupadkashyap100">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=760&lines=AI%2FML+research+on+Indian+folk+%26+classical+music;National+semi-finalist+%E2%80%94+DRISHTI-NE+Hackathon%2C+IIM+Shillong;Building+NEXUS-AI%2C+OCR-MOSIP+%26+Attendance+Sarathi;Next.js+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+OpenCV" alt="Typing SVG" />
