@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=230&section=header&text=Dhrupad%20Kashyap&fontSize=52&fontColor=7dd3fc&animation=twinkling&fontAlignY=36&desc=B.Tech%20CSE%20Student%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Dhrupad Kashyap header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:34d399&height=230&section=header&text=Dhrupad%20Kashyap&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=B.Tech%20CSE%20Student%20%C2%B7%20AI%2FML%20and%20Full-Stack%20Developer&descSize=18&descColor=f1f5f9&descAlignY=58" alt="Dhrupad Kashyap header" width="100%" />
 
 <a href="https://github.com/dhrupadkashyap100">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=760&lines=AI%2FML+research+on+Indian+folk+%26+classical+music;National+semi-finalist+%E2%80%94+DRISHTI-NE+Hackathon%2C+IIM+Shillong;Building+NEXUS-AI%2C+OCR-MOSIP+%26+Attendance+Sarathi;Next.js+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+OpenCV" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=AI%2FML+research+on+Indian+folk+%26+classical+music;National+semi-finalist+%E2%80%94+DRISHTI-NE+Hackathon%2C+IIM+Shillong;Building+NEXUS-AI%2C+OCR-MOSIP+%26+Attendance+Sarathi;Next.js+%C2%B7+FastAPI+%C2%B7+PyTorch+%C2%B7+OpenCV" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dhrupadkashyap100&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/dhrupadkashyap100?style=flat-square&color=7dd3fc&labelColor=0d1117&logo=github&logoColor=7dd3fc" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=dhrupadkashyap100&color=34d399&style=flat-square&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/dhrupadkashyap100?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa" alt="GitHub followers" />
 
 </div>
 
@@ -32,7 +32,9 @@ const dhrupad = {
 ## 🚀 Featured Projects
 
 ### 🌧️ NEXUS-AI — AI-Driven Early Disaster Warning System
-*National Semi-finalist · DRISHTI-NE Hackathon, IIM Shillong*
+
+![DRISHTI-NE](https://img.shields.io/badge/DRISHTI--NE-National%20Semi--finalist-fcd34d?style=flat-square&labelColor=0d1117)
+![IIM Shillong](https://img.shields.io/badge/Hackathon-IIM%20Shillong-a78bfa?style=flat-square&labelColor=0d1117)
 
 Converts static geospatial data into a dynamic, predictive safety layer for critical roads like NH-6 and NH-27 across North East India's challenging terrain, treating infrastructure issues as data problems.
 
@@ -46,7 +48,9 @@ Converts static geospatial data into a dynamic, predictive safety layer for crit
 ---
 
 ### 🪪 OCR-MOSIP — Intelligent Document Digitization
-*MOSIP Decode Hackathon, IIT Madras*
+
+![MOSIP Decode](https://img.shields.io/badge/MOSIP%20Decode-Hackathon-f9a8d4?style=flat-square&labelColor=0d1117)
+![IIT Madras](https://img.shields.io/badge/Hosted%20by-IIT%20Madras-7dd3fc?style=flat-square&labelColor=0d1117)
 
 An AI-powered OCR system for digitizing identity documents, using a hybrid EasyOCR + TrOCR pipeline to improve accuracy, privacy, and processing speed.
 
@@ -59,7 +63,9 @@ An AI-powered OCR system for digitizing identity documents, using a hybrid EasyO
 ---
 
 ### 🧑‍🏫 Attendance Sarathi — Offline Face Recognition System
-*Smart India Hackathon 2025*
+
+![SIH 2025](https://img.shields.io/badge/Smart%20India%20Hackathon-2025-34d399?style=flat-square&labelColor=0d1117)
+![Offline](https://img.shields.io/badge/Mode-Offline-fb923c?style=flat-square&labelColor=0d1117)
 
 An OpenCV-based offline facial recognition system for attendance tracking, evaluated for deployment in low-resource Anganwadi environments.
 
@@ -74,6 +80,9 @@ An OpenCV-based offline facial recognition system for attendance tracking, evalu
 
 ### ✍️ BlogGen — Multi-Agent LLM Blog Orchestrator
 
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Google%20Gemini-a78bfa?style=flat-square&labelColor=0d1117)
+![WordPress](https://img.shields.io/badge/Publishing-WordPress%20REST%20API-7dd3fc?style=flat-square&labelColor=0d1117)
+
 A scalable, Python-based multi-agent LLM orchestrator using Google Gemini to systematically generate GEO-optimized blogs, with a responsive Streamlit interface, real-time Plotly visualizations, and automated headless CMS distribution via the WordPress REST API.
 
 | Layer | Technology |
@@ -84,17 +93,22 @@ A scalable, Python-based multi-agent LLM orchestrator using Google Gemini to sys
 
 ---
 
-## 🎼 Research — Indian Music & Machine Learning
-*Research Intern, NIT Silchar · funded by the Ministry of Education, Government of India*
+## 🎼 Research — Indian Music and Machine Learning
+
+![NIT Silchar](https://img.shields.io/badge/Research%20Intern-NIT%20Silchar-34d399?style=flat-square&labelColor=0d1117)
+![MoE](https://img.shields.io/badge/Funded%20by-Ministry%20of%20Education-fcd34d?style=flat-square&labelColor=0d1117)
 
 <a href="https://github.com/dhrupadkashyap100/Indian-Music-Research">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrupadkashyap100&repo=Indian-Music-Research&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&hide_border=false" alt="Indian-Music-Research" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhrupadkashyap100&repo=Indian-Music-Research&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=f9a8d4&text_color=d8dee9&hide_border=false" alt="Indian-Music-Research" />
 </a>
 
 ### 🎵 Genre Classification of Indian Traditional Folk Music
 *Multi-Feature CBAM Integrated EfficientNet-B0*
 
-A deep learning audio classification system that categorizes traditional Indian folk music across 10 regional genres. A multi-feature pipeline combines log-Mel spectrograms, CQT-based chromagrams, swaragrams, and MFCCs, fed to CNN and EfficientNet-based models with feature fusion, attention, and regularization/augmentation. **68.70% test accuracy · 0.6788 macro-F1.**
+![Accuracy](https://img.shields.io/badge/Test%20Accuracy-68.70%25-fcd34d?style=flat-square&labelColor=0d1117)
+![Macro F1](https://img.shields.io/badge/Macro--F1-0.6788-f9a8d4?style=flat-square&labelColor=0d1117)
+
+A deep learning audio classification system that categorizes traditional Indian folk music across 10 regional genres. A multi-feature pipeline combines log-Mel spectrograms, CQT-based chromagrams, swaragrams, and MFCCs, fed to CNN and EfficientNet-based models with feature fusion, attention, and regularization/augmentation.
 
 | Layer | Technology |
 |---|---|
@@ -110,7 +124,11 @@ A deep learning audio classification system that categorizes traditional Indian 
 ### 🕉️ Cross-Cultural Raag Recognition
 *Music Representation Learning*
 
-Estimates associations between traditional folk music and Hindustani classical Raag structures using a frozen transformer-based audio foundation model (CultureMERT-95M) to extract 768-dimensional embeddings, with no training on the target folk data. Retrieval uses temporal aggregation, L2 normalization, and class-wise maximum cosine similarity. **56.60% Top-1 · 84.91% Top-3** on independent labeled classical recordings, then applied to 327 folk recordings to produce ranked Top-3 Raag associations (computational similarity estimates, not definitive musicological classifications).
+![Top-1](https://img.shields.io/badge/Top--1-56.60%25-34d399?style=flat-square&labelColor=0d1117)
+![Top-3](https://img.shields.io/badge/Top--3-84.91%25-a78bfa?style=flat-square&labelColor=0d1117)
+![Folk recordings](https://img.shields.io/badge/Folk%20Recordings-327-7dd3fc?style=flat-square&labelColor=0d1117)
+
+Estimates associations between traditional folk music and Hindustani classical Raag structures using a frozen transformer-based audio foundation model (CultureMERT-95M) to extract 768-dimensional embeddings, with no training on the target folk data. Retrieval uses temporal aggregation, L2 normalization, and class-wise maximum cosine similarity, evaluated on independent labeled classical recordings and then applied to 327 folk recordings to produce ranked Top-3 Raag associations (computational similarity estimates, not definitive musicological classifications).
 
 | Layer | Technology |
 |---|---|
@@ -137,7 +155,7 @@ Estimates associations between traditional folk music and Hindustani classical R
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend" />
 
-**AI / ML & Databases**
+**AI / ML and Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,opencv,numpy,mysql,postgres,mongodb&theme=dark" alt="AI and Databases" />
 
@@ -151,12 +169,12 @@ Estimates associations between traditional folk music and Hindustani classical R
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhrupadkashyap100&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupadkashyap100&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=d8dee9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhrupadkashyap100&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=f9a8d4&text_color=d8dee9" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrupadkashyap100&layout=compact&theme=nord&border_color=34d399&title_color=34d399&text_color=d8dee9" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=dhrupadkashyap100&theme=nord&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&border=7dd3fc" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=dhrupadkashyap100&theme=nord&ring=f9a8d4&fire=fcd34d&currStreakNum=a78bfa&currStreakLabel=7dd3fc&sideLabels=34d399&border=7dd3fc" alt="GitHub streak" />
 
 <br/>
 
@@ -166,7 +184,7 @@ Estimates associations between traditional folk music and Hindustani classical R
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrupadkashyap100&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhrupadkashyap100&bg_color=0d1117&color=a78bfa&line=34d399&point=fcd34d&area=true&area_color=34d399&hide_border=true" alt="Contribution graph" width="100%" />
 
 ---
 
@@ -180,6 +198,6 @@ Estimates associations between traditional folk music and Hindustani classical R
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7dd3fc&height=140&section=footer&reversal=true" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:0ea5e9,100:34d399&height=140&section=footer&reversal=true" alt="Footer" width="100%" />
 
 </div>
